@@ -1,0 +1,15 @@
+text_email_Sender - 
+
++ pwinput - for asterik password
++ termcolor - styling print statement
++ smtplib
++ email_validator - validating email
++ pyfiglet - for logo
+
+email_attachment_sender -
+
++ smtplib
++ mimetypes
++ email
++ pyfiglet
++ termcolor
